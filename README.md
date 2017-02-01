@@ -8,7 +8,7 @@ https://github.com/madmaze/pytesseract
 
 #Inital Steps to run the django-project
 
-1. Make sure you run this in new vitual environment
+Make sure you run this in new vitual environment
 
 In case you have no idea about how to create virtual env then follow this http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
