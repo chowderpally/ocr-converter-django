@@ -6,4 +6,4 @@ Resources:
 https://github.com/tesseract-ocr/tesseract
 https://github.com/madmaze/pytesseract
 
-Inital Steps to run the django-project:
+#Inital Steps to run the django-project:
