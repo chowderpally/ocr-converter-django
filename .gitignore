@@ -1,0 +1,9 @@
+*.pyc
+*.sqlite3
+*.egg-info/
+.idea/
+.tox/
+*.sublime-project
+*.sublime-workspace
+Contact GitHub API Training Shop Blog About
+
