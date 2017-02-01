@@ -9,6 +9,12 @@ https://github.com/madmaze/pytesseract
 #Inital Steps to run the django-project
 
 1. Make sure you run this in new vitual environment
-$ cd ocr-converter-django \n
+2. $ cd ocr-converter-django
+3. $ pip install -r requirements.txt
+4. $ python manage.py makemigrations
+5. $ python manage.py migrate
+6. $ python manage.py runserver
+
+And it's done! Enjoy..
 
 
