@@ -6,4 +6,8 @@ Resources:
 https://github.com/tesseract-ocr/tesseract
 https://github.com/madmaze/pytesseract
 
-#Inital Steps to run the django-project:
+#Inital Steps to run the django-project
+
+1. Make sure you run this in new vitual environment
+2. cd ocr-converter-django
+
